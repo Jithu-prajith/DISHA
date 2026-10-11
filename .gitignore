@@ -1,0 +1,5 @@
+.env
+memory_log.jsonl
+venv/
+__pycache__/
+*.pyc
